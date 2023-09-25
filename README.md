@@ -9,7 +9,7 @@
 
 - 📫 How to reach me : <b>tarunmariya320@gmail.com</b> <br>
 
-- ⚡ Fun fact <b>funny shayar</b><br>
+- ⚡ Fun fact <b>funny </b><br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
