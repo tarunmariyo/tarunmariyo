@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/mariyatarun" target="blank"><img src="https://img.shields.io/twitter/follow/mariyatarun?logo=twitter&style=for-the-badge" alt="mariyatarun" /></a> </p>
 
-- 🌱 I’m currently learning <b>DSA with JAVA</b> <br>
+- 🌱 I’m currently learning <b>JAVA AND JAVA SCRIPT</b> <br>
 
 - 📫 How to reach me : <b>tarunmariya320@gmail.com</b> <br>
 
