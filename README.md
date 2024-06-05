@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning <b>Python and React.js</b>
 - 📫 How to reach me: <b>tarunmariya320@gmail.com</b>
-- ⚡ Fun fact: <b>I'm funny!</b>
+- ⚡ Hobbies: <b>I love watching animes </b>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
