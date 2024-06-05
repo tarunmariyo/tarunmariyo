@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tarun Kumar</h1>
-<h3 align="center">A passionate software engineer from India</h3>
+<h3 align="center">A passionate engineering student from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 
@@ -13,7 +13,7 @@
   </a> 
 </p>
 
-- 🌱 I’m currently learning <b>DSA and JavaScript</b>
+- 🌱 I’m currently learning <b>Python and React.js</b>
 - 📫 How to reach me: <b>tarunmariya320@gmail.com</b>
 - ⚡ Fun fact: <b>I'm funny!</b>
 
@@ -39,10 +39,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html/html-original.svg" alt="html" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/HTML/HTML-original.svg" alt="html" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css/css-original.svg" alt="css" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/CSS/CSS-original.svg" alt="css" width="40" height="40"/>
   </a>
   <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
