@@ -12,9 +12,7 @@
     <img src="https://img.shields.io/twitter/follow/mariyatarun?logo=twitter&style=for-the-badge" alt="mariyatarun" />
   </a> 
 </p>
-<p align="left">
-<a href="https://linkedin.com/in/tarun-kumar-2a9491295" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarun-kumar-2a9491295" height="30" width="40" /></a>
-</p>
+
 
 - 🌱 I’m currently learning <b>Python and React.js</b>
 - 📫 How to reach me: <b>tarunmariya320@gmail.com</b>
@@ -28,6 +26,8 @@
   <a href="https://instagram.com/mariya_tarun" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mariya_tarun" height="30" width="40" />
   </a>
+<a href="https://linkedin.com/in/tarun-kumar-2a9491295" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarun-kumar-2a9491295" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
