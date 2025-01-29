@@ -14,7 +14,7 @@
 </p>
 
 
-- 🌱 I’m currently learning <b>Python and React.js</b>
+- 🌱 I’m currently learning <b>Swift and SwiftUI</b>
 - 📫 How to reach me: <b>tarunmariya320@gmail.com</b>
 - ⚡ Hobbies: <b>I love watching animes </b>
 
