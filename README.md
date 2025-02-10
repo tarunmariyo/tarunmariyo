@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tarun Kumar</h1>
 <h3 align="center">A passionate engineering student from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/21978218/file/original-8312b7812e31c2321fb5c17e3bfd5ca8.gif">
+<img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/userupload/21978218/file/original-8312b7812e31c2321fb5c17e3bfd5ca8.gif">
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=tarunmariyo&label=Profile%20views&color=0e75b6&style=flat" alt="tarunmariyo" />
